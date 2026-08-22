@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
+  <title id="title">Gaurav Shivhare terminal-style GitHub profile</title>
+  <desc id="desc">Terminal panel with ASCII art and system-style profile information for Gaurav Shivhare.</desc>
+  <style>
+    :root { color-scheme: light dark; }
+    .bg { fill: #0d1117; }
+    .panel { fill: #161b22; stroke: #30363d; }
+    .ink { fill: #c9d1d9; }
+    .muted { fill: #8b949e; }
+    .orange { fill: #ffa657; }
+    .blue { fill: #79c0ff; }
+    .green { fill: #7ee787; }
+    .purple { fill: #d2a8ff; }
+    .cyan { fill: #a5d6ff; }
+    .red { fill: #ff7b72; }
+    .line { stroke: #30363d; }
+    text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+    .header { font-size: 16px; }
+    .ascii { font-size: 14px; font-weight: 700; }
+    .info { font-size: 17px; }
+    .small { font-size: 15px; }
+    @media (prefers-color-scheme: light) {
+      .bg { fill: #f6f8fa; }
+      .panel { fill: #ffffff; stroke: #d0d7de; }
+      .ink { fill: #24292f; }
+      .muted { fill: #57606a; }
+      .orange { fill: #953800; }
+      .blue { fill: #0550ae; }
+      .green { fill: #116329; }
+      .purple { fill: #8250df; }
+      .cyan { fill: #0969da; }
+      .red { fill: #cf222e; }
+      .line { stroke: #d0d7de; }
+    }
+  </style>
+  <rect class="bg" width="1200" height="690" rx="18"/>
+  <rect class="panel" x="18" y="18" width="1164" height="654" rx="16" stroke-width="2"/>
+  <text class="header muted" x="42" y="52">GauravShivhare / README.md</text>
+  <line class="line" x1="42" y1="70" x2="1158" y2="70"/>
+
+  <g class="ascii ink" xml:space="preserve">
+    <text x="55" y="105">       .--------.</text>
+    <text x="55" y="122">      / .------. /|</text>
+    <text x="55" y="139">     / /      / / |</text>
+    <text x="55" y="156">    / /  AI  / /  |</text>
+    <text x="55" y="173">   / / SAFE / /   |</text>
+    <text x="55" y="190">  / /______/_/    |</text>
+    <text x="55" y="207">  | |      | |    |</text>
+    <text x="55" y="224">  | |      | |    |</text>
+    <text x="55" y="241">  | '------' |    /</text>
+    <text x="55" y="258">  '----------'   /</text>
+    <text x="55" y="275">   '----------'  /</text>
+    <text x="55" y="292">      |  |      /</text>
+    <text x="55" y="309">   ___|  |___  /</text>
+    <text x="55" y="326">  /___    ___/</text>
+    <text x="55" y="343">      |  |</text>
+    <text x="55" y="360">   ___|  |___</text>
+    <text x="55" y="377">  /___    ___/</text>
+    <text x="55" y="394">      |__|</text>
+    <text class="green" x="55" y="430">  $ whoami</text>
+    <text class="blue" x="55" y="450">  gaurav-shivhare</text>
+    <text class="green" x="55" y="486">  $ mission</text>
+    <text class="ink" x="55" y="506">  build useful AI,</text>
+    <text class="ink" x="55" y="526">  make agents safer.</text>
+    <text class="green" x="55" y="562">  $ status</text>
+    <text class="orange" x="55" y="582">  shipping AgentSec</text>
+    <text class="orange" x="55" y="602">  + EducateShala</text>
+  </g>
+
+  <g class="info" xml:space="preserve">
+    <text class="blue" x="480" y="112">gaurav@builder</text><text class="muted" x="655" y="112"> ------------------------------</text>
+    <text class="orange" x="480" y="142">• Focus:</text><text class="ink" x="600" y="142"> AI safety, EdTech, open-source tooling</text>
+    <text class="orange" x="480" y="170">• Building:</text><text class="blue" x="600" y="170"> AgentSec + EducateShala</text>
+    <text class="orange" x="480" y="198">• Location:</text><text class="ink" x="600" y="198"> Dantewada, Chhattisgarh, India</text>
+    <text class="orange" x="480" y="226">• Stack:</text><text class="ink" x="600" y="226"> Python, TypeScript, React, Node.js</text>
+    <text class="orange" x="480" y="254">• Interests:</text><text class="ink" x="600" y="254"> AI agents, security, SaaS, product design</text>
+
+    <text class="purple" x="480" y="300">Projects</text><text class="muted" x="585" y="300"> ------------------------------------</text>
+    <text class="green" x="480" y="332">AgentSec</text><text class="ink" x="620" y="332"> AI-agent security testing</text>
+    <text class="small muted" x="620" y="356">adversarial attacks · evidence · hardening</text>
+    <text class="cyan" x="620" y="380">github.com/GauravShivhare/Agent-security</text>
+    <text class="green" x="480" y="418">EducateShala</text><text class="ink" x="690" y="418"> school operations with AI</text>
+    <text class="small muted" x="690" y="442">role-based workflows · reports · reviewed drafts</text>
+    <text class="cyan" x="690" y="466">github.com/GauravShivhare/Educateshala-case-study</text>
+
+    <text class="purple" x="480" y="512">GitHub Stats</text><text class="muted" x="625" y="512"> -------------------------------</text>
+    <text class="orange" x="480" y="544">Repos:</text><text class="blue" x="585" y="544"> 4</text>
+    <text class="orange" x="700" y="544">Contributions:</text><text class="blue" x="895" y="544"> 89</text>
+    <text class="orange" x="1000" y="544">Stars:</text><text class="blue" x="1100" y="544"> 1</text>
+    <text class="orange" x="480" y="574">Followers:</text><text class="blue" x="635" y="574"> 0</text>
+    <text class="orange" x="700" y="574">Following:</text><text class="blue" x="865" y="574"> 0</text>
+    <text class="orange" x="1000" y="574">License:</text><text class="green" x="1100" y="574"> MIT</text>
+
+    <text class="purple" x="480" y="620">Contact</text><text class="muted" x="575" y="620"> ---------------------------------------</text>
+    <text class="orange" x="480" y="646">LinkedIn:</text><text class="cyan" x="620" y="646"> gaurav-shivhare-b787423ab</text>
+  </g>
+</svg>
