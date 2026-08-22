@@ -1,3 +1,3 @@
 <a href="https://github.com/GauravShivhare">
-  <img alt="Gaurav Shivhare clean terminal-style GitHub profile with portrait" src="https://raw.githubusercontent.com/GauravShivhare/GauravShivhare/main/terminal-profile-clean-final.png">
+  <img alt="Gaurav Shivhare enhanced terminal-style GitHub profile" src="https://raw.githubusercontent.com/GauravShivhare/GauravShivhare/main/terminal-profile-enhanced-final.png">
 </a>
