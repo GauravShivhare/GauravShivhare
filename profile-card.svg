@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Gaurav Shivhare — practical AI products and safer AI tools</title>
+  <desc id="desc">A profile card featuring AgentSec, EducateShala, and a public GitHub snapshot.</desc>
+  <style>
+    :root { color-scheme: light dark; }
+    .bg { fill: #f7fafc; }
+    .panel { fill: #ffffff; stroke: #d9e2ec; }
+    .ink { fill: #102a43; }
+    .muted { fill: #52606d; }
+    .accent { fill: #1464d2; }
+    .accent2 { fill: #0f766e; }
+    .soft { fill: #e8f1ff; }
+    .soft2 { fill: #e6fffa; }
+    .line { stroke: #d9e2ec; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0b1220; }
+      .panel { fill: #111c2e; stroke: #263b56; }
+      .ink { fill: #f0f4f8; }
+      .muted { fill: #9fb3c8; }
+      .accent { fill: #63b3ed; }
+      .accent2 { fill: #5eead4; }
+      .soft { fill: #172c4d; }
+      .soft2 { fill: #123b3a; }
+      .line { stroke: #263b56; }
+    }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .eyebrow { font-size: 18px; font-weight: 700; letter-spacing: 2px; }
+    .title { font-size: 44px; font-weight: 800; }
+    .subtitle { font-size: 22px; }
+    .label { font-size: 16px; font-weight: 700; }
+    .body { font-size: 18px; }
+    .metric { font-size: 34px; font-weight: 800; }
+  </style>
+  <rect class="bg" width="1200" height="620" rx="28"/>
+  <rect class="panel" x="24" y="24" width="1152" height="572" rx="24"/>
+  <circle class="accent" cx="110" cy="112" r="58" opacity="0.15"/>
+  <circle class="accent" cx="110" cy="112" r="38" opacity="0.95"/>
+  <text x="110" y="126" text-anchor="middle" font-size="34" font-weight="800" fill="#fff">GS</text>
+  <text class="eyebrow accent" x="190" y="88">GAURAV SHIVHARE</text>
+  <text class="title ink" x="190" y="140">Practical AI products.</text>
+  <text class="title ink" x="190" y="190">Safer AI tools.</text>
+  <text class="subtitle muted" x="190" y="232">Building AgentSec and EducateShala from India.</text>
+  <line class="line" x1="70" y1="278" x2="1130" y2="278" stroke-width="2"/>
+  <rect class="soft" x="70" y="316" width="500" height="156" rx="18"/>
+  <text class="label accent" x="98" y="354">FLAGSHIP PROJECT 01</text>
+  <text class="title ink" x="98" y="400" font-size="31">AgentSec</text>
+  <text class="body muted" x="98" y="433">AI-agent security testing</text>
+  <text class="body accent" x="98" y="462">Break agents before attackers do →</text>
+  <rect class="soft2" x="600" y="316" width="530" height="156" rx="18"/>
+  <text class="label accent2" x="628" y="354">FLAGSHIP PROJECT 02</text>
+  <text class="title ink" x="628" y="400" font-size="31">EducateShala</text>
+  <text class="body muted" x="628" y="433">AI-assisted school operations</text>
+  <text class="body accent2" x="628" y="462">Product case study and MVP →</text>
+  <line class="line" x1="70" y1="512" x2="1130" y2="512" stroke-width="2"/>
+  <text class="label muted" x="90" y="554">PUBLIC GITHUB SNAPSHOT</text>
+  <text class="metric ink" x="405" y="558">4</text><text class="body muted" x="435" y="558"> repos</text>
+  <text class="metric ink" x="600" y="558">89</text><text class="body muted" x="648" y="558"> contributions</text>
+  <text class="metric ink" x="875" y="558">1</text><text class="body muted" x="900" y="558"> star</text>
+</svg>

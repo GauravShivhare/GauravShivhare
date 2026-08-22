@@ -1,31 +1,38 @@
-# Gaurav Shivhare
+<a href="https://github.com/GauravShivhare">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauravShivhare/GauravShivhare/main/profile-card.svg">
+    <img alt="Gaurav Shivhare — practical AI products and safer AI tools" src="https://raw.githubusercontent.com/GauravShivhare/GauravShivhare/main/profile-card.svg">
+  </picture>
+</a>
 
-I build practical AI products and open-source tools for safer, more useful software.
+## About me
+
+I build practical AI products and open-source tools for safer, more useful software. I am currently focused on AI-agent security, EdTech, and product experiences that solve real workflow problems.
 
 ## Featured work
 
-### AgentSec — AI-agent security testing
+| Project | What it does |
+| --- | --- |
+| [AgentSec](https://github.com/GauravShivhare/Agent-security) | Open-source defensive testing for AI agents. Run structured adversarial attacks, inspect evidence, and harden tool permissions before attackers do. |
+| [EducateShala](https://github.com/GauravShivhare/Educateshala-case-study) | A documented school-management SaaS MVP with role-based workflows, communication, reports, and reviewed AI-generated drafts. |
 
-Break AI agents before attackers do. Run structured adversarial tests, inspect tool-call traces, and export actionable findings.
+## Current focus
 
-[Repository](https://github.com/GauravShivhare/Agent-security) · [Quick start](https://github.com/GauravShivhare/Agent-security#quick-start)
+- Improving AgentSec’s runnable examples, reports, and contribution paths.
+- Continuing EducateShala product validation and case-study documentation.
+- Learning in public about AI safety, EdTech, automation, and thoughtful product design.
 
-### EducateShala — school operations with AI assistance
+## GitHub snapshot
 
-A documented school-management SaaS MVP for role-based workflows, communication, reports, and reviewed AI-generated drafts.
-
-[Case study](https://github.com/GauravShivhare/Educateshala-case-study) · [Demo assets](https://github.com/GauravShivhare/Educateshala-case-study#hackathon-submission-links)
-
-## Now
-
-Shipping AgentSec, improving its documentation and runnable examples, and continuing EducateShala product validation.
-
-## What I care about
-
-AI safety, EdTech, open-source tooling, thoughtful product design, and practical automation.
+<p align="center">
+  <a href="https://github.com/GauravShivhare"><img height="165" src="https://github-readme-stats.vercel.app/api?username=GauravShivhare&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Gaurav's GitHub stats" /></a>
+  <a href="https://github.com/GauravShivhare"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravShivhare&layout=compact&hide_border=true&theme=transparent" alt="Gaurav's top languages" /></a>
+</p>
 
 ## Connect
 
-I’m interested in useful collaboration and honest product feedback. Start with [AgentSec](https://github.com/GauravShivhare/Agent-security) or the [EducateShala case study](https://github.com/GauravShivhare/Educateshala-case-study). You can also find me on [LinkedIn](https://www.linkedin.com/in/gaurav-shivhare-b787423ab/) and [Instagram](https://www.instagram.com/g.rav_sh/).
+- [LinkedIn](https://www.linkedin.com/in/gaurav-shivhare-b787423ab/)
+- [Instagram](https://www.instagram.com/g.rav_sh/)
+- [AgentSec discussions and issues](https://github.com/GauravShivhare/Agent-security/issues)
 
 > Building useful products, learning fast, and shipping with care.
