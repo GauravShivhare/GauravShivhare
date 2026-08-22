@@ -1,59 +1,97 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
-  <title id="title">Gaurav Shivhare — practical AI products and safer AI tools</title>
-  <desc id="desc">A profile card featuring AgentSec, EducateShala, and a public GitHub snapshot.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
+  <title id="title">Gaurav Shivhare terminal-style GitHub profile</title>
+  <desc id="desc">Terminal panel with ASCII art and system-style profile information for Gaurav Shivhare.</desc>
   <style>
     :root { color-scheme: light dark; }
-    .bg { fill: #f7fafc; }
-    .panel { fill: #ffffff; stroke: #d9e2ec; }
-    .ink { fill: #102a43; }
-    .muted { fill: #52606d; }
-    .accent { fill: #1464d2; }
-    .accent2 { fill: #0f766e; }
-    .soft { fill: #e8f1ff; }
-    .soft2 { fill: #e6fffa; }
-    .line { stroke: #d9e2ec; }
-    @media (prefers-color-scheme: dark) {
-      .bg { fill: #0b1220; }
-      .panel { fill: #111c2e; stroke: #263b56; }
-      .ink { fill: #f0f4f8; }
-      .muted { fill: #9fb3c8; }
-      .accent { fill: #63b3ed; }
-      .accent2 { fill: #5eead4; }
-      .soft { fill: #172c4d; }
-      .soft2 { fill: #123b3a; }
-      .line { stroke: #263b56; }
+    .bg { fill: #0d1117; }
+    .panel { fill: #161b22; stroke: #30363d; }
+    .ink { fill: #c9d1d9; }
+    .muted { fill: #8b949e; }
+    .orange { fill: #ffa657; }
+    .blue { fill: #79c0ff; }
+    .green { fill: #7ee787; }
+    .purple { fill: #d2a8ff; }
+    .cyan { fill: #a5d6ff; }
+    .red { fill: #ff7b72; }
+    .line { stroke: #30363d; }
+    text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+    .header { font-size: 16px; }
+    .ascii { font-size: 14px; font-weight: 700; }
+    .info { font-size: 17px; }
+    .small { font-size: 15px; }
+    @media (prefers-color-scheme: light) {
+      .bg { fill: #f6f8fa; }
+      .panel { fill: #ffffff; stroke: #d0d7de; }
+      .ink { fill: #24292f; }
+      .muted { fill: #57606a; }
+      .orange { fill: #953800; }
+      .blue { fill: #0550ae; }
+      .green { fill: #116329; }
+      .purple { fill: #8250df; }
+      .cyan { fill: #0969da; }
+      .red { fill: #cf222e; }
+      .line { stroke: #d0d7de; }
     }
-    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    .eyebrow { font-size: 18px; font-weight: 700; letter-spacing: 2px; }
-    .title { font-size: 44px; font-weight: 800; }
-    .subtitle { font-size: 22px; }
-    .label { font-size: 16px; font-weight: 700; }
-    .body { font-size: 18px; }
-    .metric { font-size: 34px; font-weight: 800; }
   </style>
-  <rect class="bg" width="1200" height="620" rx="28"/>
-  <rect class="panel" x="24" y="24" width="1152" height="572" rx="24"/>
-  <circle class="accent" cx="110" cy="112" r="58" opacity="0.15"/>
-  <circle class="accent" cx="110" cy="112" r="38" opacity="0.95"/>
-  <text x="110" y="126" text-anchor="middle" font-size="34" font-weight="800" fill="#fff">GS</text>
-  <text class="eyebrow accent" x="190" y="88">GAURAV SHIVHARE</text>
-  <text class="title ink" x="190" y="140">Practical AI products.</text>
-  <text class="title ink" x="190" y="190">Safer AI tools.</text>
-  <text class="subtitle muted" x="190" y="232">Building AgentSec and EducateShala from India.</text>
-  <line class="line" x1="70" y1="278" x2="1130" y2="278" stroke-width="2"/>
-  <rect class="soft" x="70" y="316" width="500" height="156" rx="18"/>
-  <text class="label accent" x="98" y="354">FLAGSHIP PROJECT 01</text>
-  <text class="title ink" x="98" y="400" font-size="31">AgentSec</text>
-  <text class="body muted" x="98" y="433">AI-agent security testing</text>
-  <text class="body accent" x="98" y="462">Break agents before attackers do →</text>
-  <rect class="soft2" x="600" y="316" width="530" height="156" rx="18"/>
-  <text class="label accent2" x="628" y="354">FLAGSHIP PROJECT 02</text>
-  <text class="title ink" x="628" y="400" font-size="31">EducateShala</text>
-  <text class="body muted" x="628" y="433">AI-assisted school operations</text>
-  <text class="body accent2" x="628" y="462">Product case study and MVP →</text>
-  <line class="line" x1="70" y1="512" x2="1130" y2="512" stroke-width="2"/>
-  <text class="label muted" x="90" y="554">PUBLIC GITHUB SNAPSHOT</text>
-  <text class="metric ink" x="405" y="558">4</text><text class="body muted" x="435" y="558"> repos</text>
-  <text class="metric ink" x="600" y="558">89</text><text class="body muted" x="648" y="558"> contributions</text>
-  <text class="metric ink" x="875" y="558">1</text><text class="body muted" x="900" y="558"> star</text>
+  <rect class="bg" width="1200" height="690" rx="18"/>
+  <rect class="panel" x="18" y="18" width="1164" height="654" rx="16" stroke-width="2"/>
+  <text class="header muted" x="42" y="52">GauravShivhare / README.md</text>
+  <line class="line" x1="42" y1="70" x2="1158" y2="70"/>
+
+  <g class="ascii ink" xml:space="preserve">
+    <text x="55" y="105">       .--------.</text>
+    <text x="55" y="122">      / .------. /|</text>
+    <text x="55" y="139">     / /      / / |</text>
+    <text x="55" y="156">    / /  AI  / /  |</text>
+    <text x="55" y="173">   / / SAFE / /   |</text>
+    <text x="55" y="190">  / /______/_/    |</text>
+    <text x="55" y="207">  | |      | |    |</text>
+    <text x="55" y="224">  | |      | |    |</text>
+    <text x="55" y="241">  | '------' |    /</text>
+    <text x="55" y="258">  '----------'   /</text>
+    <text x="55" y="275">   '----------'  /</text>
+    <text x="55" y="292">      |  |      /</text>
+    <text x="55" y="309">   ___|  |___  /</text>
+    <text x="55" y="326">  /___    ___/</text>
+    <text x="55" y="343">      |  |</text>
+    <text x="55" y="360">   ___|  |___</text>
+    <text x="55" y="377">  /___    ___/</text>
+    <text x="55" y="394">      |__|</text>
+    <text class="green" x="55" y="430">  $ whoami</text>
+    <text class="blue" x="55" y="450">  gaurav-shivhare</text>
+    <text class="green" x="55" y="486">  $ mission</text>
+    <text class="ink" x="55" y="506">  build useful AI,</text>
+    <text class="ink" x="55" y="526">  make agents safer.</text>
+    <text class="green" x="55" y="562">  $ status</text>
+    <text class="orange" x="55" y="582">  shipping AgentSec</text>
+    <text class="orange" x="55" y="602">  + EducateShala</text>
+  </g>
+
+  <g class="info" xml:space="preserve">
+    <text class="blue" x="480" y="112">gaurav@builder</text><text class="muted" x="655" y="112"> ------------------------------</text>
+    <text class="orange" x="480" y="142">• Focus:</text><text class="ink" x="600" y="142"> AI safety, EdTech, open-source tooling</text>
+    <text class="orange" x="480" y="170">• Building:</text><text class="blue" x="600" y="170"> AgentSec + EducateShala</text>
+    <text class="orange" x="480" y="198">• Location:</text><text class="ink" x="600" y="198"> Dantewada, Chhattisgarh, India</text>
+    <text class="orange" x="480" y="226">• Stack:</text><text class="ink" x="600" y="226"> Python, TypeScript, React, Node.js</text>
+    <text class="orange" x="480" y="254">• Interests:</text><text class="ink" x="600" y="254"> AI agents, security, SaaS, product design</text>
+
+    <text class="purple" x="480" y="300">Projects</text><text class="muted" x="585" y="300"> ------------------------------------</text>
+    <text class="green" x="480" y="332">AgentSec</text><text class="ink" x="620" y="332"> AI-agent security testing</text>
+    <text class="small muted" x="620" y="356">adversarial attacks · evidence · hardening</text>
+    <text class="cyan" x="620" y="380">github.com/GauravShivhare/Agent-security</text>
+    <text class="green" x="480" y="418">EducateShala</text><text class="ink" x="690" y="418"> school operations with AI</text>
+    <text class="small muted" x="690" y="442">role-based workflows · reports · reviewed drafts</text>
+    <text class="cyan" x="690" y="466">github.com/GauravShivhare/Educateshala-case-study</text>
+
+    <text class="purple" x="480" y="512">GitHub Stats</text><text class="muted" x="625" y="512"> -------------------------------</text>
+    <text class="orange" x="480" y="544">Repos:</text><text class="blue" x="585" y="544"> 4</text>
+    <text class="orange" x="700" y="544">Contributions:</text><text class="blue" x="895" y="544"> 89</text>
+    <text class="orange" x="1000" y="544">Stars:</text><text class="blue" x="1100" y="544"> 1</text>
+    <text class="orange" x="480" y="574">Followers:</text><text class="blue" x="635" y="574"> 0</text>
+    <text class="orange" x="700" y="574">Following:</text><text class="blue" x="865" y="574"> 0</text>
+    <text class="orange" x="1000" y="574">License:</text><text class="green" x="1100" y="574"> MIT</text>
+
+    <text class="purple" x="480" y="620">Contact</text><text class="muted" x="575" y="620"> ---------------------------------------</text>
+    <text class="orange" x="480" y="646">LinkedIn:</text><text class="cyan" x="620" y="646"> gaurav-shivhare-b787423ab</text>
+  </g>
 </svg>
