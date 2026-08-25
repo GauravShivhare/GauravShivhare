@@ -8,18 +8,42 @@
 ```bash
 $ whoami
 > Gaurav Shivhare
-> AI Engineer | ML Trading Systems | Open Source Builder
+> AI Engineer | AI Safety Builder | EdTech & Open Source Developer
 ```
+
+I build practical AI tools for schools, safer AI agents, and developer workflows. My current focus is **AgentSec**, **EducateShala**, and self-hostable AI products that turn complex ideas into useful software.
 
 ### 🛠️ Current Projects
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Kronos Trading Bot** | Multi-asset crypto trading bot (BTC/ETH/SOL) with ML scoring pipeline | Python, Telegram, Binance, Multi-LLM |
-| **Agent Security** | Defensive testing framework for AI agents | Python, Adversarial Testing |
-| **Hermes Agent Skills** | Custom skills for Hermes AI assistant | Markdown, Python |
+| **Agent Security** | Open-source defensive testing framework for AI agents with structured adversarial attacks, evidence inspection, and tool-permission hardening | Python, CLI, Red Teaming |
+| **Grog Bot** | Free, open-source, self-hostable AI teammate that can operate software on your behalf | Python, AI Agents |
+| **EducateShala** | AI-powered school management platform and ERP focused on practical school operations | TypeScript, SaaS, EdTech |
+| **EducateShala Case Study** | Public proof-of-work for an AI-powered school management SaaS product | TypeScript, Product Design |
+| **Apology Site** | Mobile-first, interactive multi-page website recreated from a video reference | TypeScript, Manus |
+| **Kronos Trading Bot** | Multi-asset crypto trading bot with an ML scoring pipeline for BTC, ETH, and SOL | Python, Telegram, Binance, Multi-LLM |
+
+### 🔐 Agent Security Work
+```text
+STRUCTURE → ATTACK → INSPECT → HARDEN
+├── Prompt-injection and adversarial testing
+├── Tool-permission and capability checks
+├── Evidence collection for reproducible findings
+├── HTTP adapter support for CLI workflows
+└── AI-agent security research and defensive engineering
+```
+
+### 📈 Recent GitHub Activity
+| Metric | Recent progress |
+|--------|------------------|
+| **Contributions** | 99 contributions in the last year |
+| **August 2026 commits** | 35 commits across 5 repositories |
+| **New repositories** | Grog Bot, Agent Security, Trading Pro, and Apology Site |
+| **Pull requests** | Built and reviewed AI-agent security improvements, including HTTP adapter support |
+| **Main focus** | AI safety, agent tooling, EdTech, automation, and open source |
 
 ### 📊 Trading Bot Specs
-```
+```text
 SCAN → SCORE → BUILD → REVIEW → DECIDE
 ├── Paper Trading: $1000 starting capital
 ├── Assets: BTC, ETH, SOL (1h timeframe)
@@ -31,22 +55,19 @@ SCAN → SCORE → BUILD → REVIEW → DECIDE
 ```
 
 ### 🤖 Telegram Bot
-Control the bot naturally: `@hermusgauravbot`
-- Conversational commands (Hinglish/English)
-- Chart screenshot analysis with vision LLM
-- TradingView / Binance URL support
-- Follow-up questions when screenshot lacks info
+Control the trading workflow naturally through `@hermusgauravbot`.
+
+- Conversational commands in Hinglish and English
+- Chart screenshot analysis with vision LLMs
+- TradingView and Binance URL support
+- Follow-up questions when a screenshot lacks context
 
 ### 📚 Knowledge Base
-15+ trading books loaded:
-- Candlestick & Chart Patterns
-- Gautam Jha Turning Point
-- PDH/PDL Reversal Strategies
-- Risk Management & Technical Analysis
+The trading workflow is supported by a growing knowledge base covering candlestick and chart patterns, Gautam Jha's *Turning Point*, PDH/PDL reversal strategies, risk management, and technical analysis.
 
 ### 🔗 Connect
-- **GitHub**: [GauravShivhare](https://github.com/GauravShivhare)
-- **Telegram**: @hermusgauravbot
+[GitHub](https://github.com/GauravShivhare) · [LinkedIn](https://www.linkedin.com/in/gaurav-shivhare-b787423ab) · Telegram: `@hermusgauravbot`
 
----
-*Last updated: $(date -u +"%Y-%m-%d %H:%M UTC")*
+> Building safer agents, useful AI products, and open-source tools—one practical system at a time.
+
+_Last updated: August 25, 2026_
